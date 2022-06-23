@@ -10,6 +10,7 @@ public class HelloSpringApplication {
 		SpringApplication.run(HelloSpringApplication.class, args);
 
 		System.out.println("Hello World!");
+		System.out.println("Git Commit Test");
 	}
 
 
